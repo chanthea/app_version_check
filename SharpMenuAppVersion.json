@@ -10,7 +10,7 @@
       "latest": "1.1.1",
       "minimal": "1.0.0",
       "forced": "1.0.0",
-      "blacklist": [],
+      "blacklist": ["1.0.0"],
       "url": "https://apps.apple.com/us/app/sharpmenu-for-consumers/id1523256105",
     }
-  }
+}
