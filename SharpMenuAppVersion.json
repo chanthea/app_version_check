@@ -1,6 +1,6 @@
 {
   "android":{
-    "latest": "1.0.4",
+    "latest": "1.0.5",
     "minimal": "1.0.3",
     "forced" : "1.0.2",
     "blacklist": [],
