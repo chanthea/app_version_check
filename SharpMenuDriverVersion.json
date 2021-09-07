@@ -8,7 +8,7 @@
   },
   "ios":{
     "latest": "1.0.2",
-    "minimal": "1.0.1",
+    "minimal": "1.0.2",
     "forced" : "1.0.0",
     "blacklist": [],
     "url": "https://apps.apple.com/us/app/sharpmenu-for-drivers/id1576070769"
